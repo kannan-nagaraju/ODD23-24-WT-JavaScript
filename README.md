@@ -576,6 +576,5 @@ End the HTML structure.
 # OUTPUT:
 ![Alt](image-5.png)
 
-
 # RESULT:
 Thus the java code executed to design a JavaScript program which displays error messages when a field in form is entered incorrectly.
