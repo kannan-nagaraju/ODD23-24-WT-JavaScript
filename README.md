@@ -457,8 +457,10 @@ Simple Text Editor using JavaScript
 # OUTPUT:
 ![Alt text](image-4.png)
 
+
 # RESULT:
 Thus the java code executed to design a simple text editor JavaScript application where we can manipulate the user input in different styles, edit the input, capitalize, and many string operations.
+
 
 
 # PROGRAM 6:
